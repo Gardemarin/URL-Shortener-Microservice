@@ -10,8 +10,8 @@ Example : `{"original_url":"www.google.com","short_url":1}`
 
 ### Example:
 
-URL to be shortened: `POST URL https://www.freecodecamp.com`
+* URL to be shortened: `POST URL https://www.freecodecamp.com`
 
-Example Usage: `[this_project_url]/api/shorturl/2`
+* Example Usage: `[this_project_url]/api/shorturl/2`
 
-Will Redirect to: `https://forum.freecodecamp.com`
+* Will Redirect to: `https://forum.freecodecamp.com`
